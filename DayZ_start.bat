@@ -3,7 +3,7 @@
 ::Server name
 set serverName=DayZ
 ::Server files location
-set serverLocation="C:\Users\melo\Desktop\dayz_live"
+set serverLocation="C:\Users\melo\Desktop\steamcmd\steamapps\common\DayZServer"
 ::Server Port
 set serverPort=2302
 ::Server config
