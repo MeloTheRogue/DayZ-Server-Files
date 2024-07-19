@@ -35,7 +35,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_types_startup" value="true"/>
 	</defaults>
 	<ce folder="CustomTypes">
-		<file name="AdvancedWeaponScopes_types.xml" type="types" />
 		<file name="BBP_types.xml" type="types" />
 		<file name="BedRespawning_types.xml" type="types" />
 		<file name="codelock_types.xml" type="types" />
